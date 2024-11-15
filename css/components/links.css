@@ -1,0 +1,12 @@
+.links a {
+	color: black;
+	font-size: 22px;
+}
+
+.links li {
+	margin: 5px 0px;
+}
+
+.links a:hover {
+	text-decoration: underline	;
+}

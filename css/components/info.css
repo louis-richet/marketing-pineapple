@@ -1,0 +1,33 @@
+.info {
+	padding: 30px;
+	align-items: flex-start;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 6px;
+	margin: 30px 0px;
+}
+
+.info p {
+	width: 650px;
+}
+
+
+.info img {
+	justify-content: right;
+	flex-grow: 1;	
+}
+
+.coach-info {
+    display: flex;
+}
+
+.coach-info img {
+	order: 2;
+}
+
+.coach-info ul {
+	width: 4000px;
+}
+.coach-info h2 {
+	width: 2600px;
+}
